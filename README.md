@@ -1,2 +1,2 @@
 # RepositorioAurora
-# El siguiente repositorio contiene un archivo html sobre tienda deportiva 
+# El siguiente repositorio contiene un archivo html sobre catalago de bolsas
